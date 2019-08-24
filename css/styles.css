@@ -3,5 +3,9 @@ body {
     margin: 0 auto;
 }
 
+.logo {
+    width: 30%;
+    background-color: rgb(231, 7, 7);
 
+}
 
