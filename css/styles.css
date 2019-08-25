@@ -37,15 +37,15 @@ body {
 
  .brand{ 
     width:100%;
-    height:465px;
+    height:485px;
     position:relative;
     background-color: rgba(36, 123, 138, 0.911)
     }
 
 
 .brand-jpg{
-    width:41%;
-    margin-top: 40px;
+    width:43.5%;
+    margin-top: 39.5px;
     margin-left: 2%;
     float: left;
 }
@@ -71,7 +71,7 @@ body {
 }
 
 .infograph-jpg{
-    width: 500px;
+    width: 550px;
     height:;
     float: right;
     margin-top: 2%;
